@@ -1,0 +1,60 @@
+body{
+    background-image: linear-gradient(to right,  #386FA4, #59A5D8, #84D2F6, #91E5F6 );
+}
+header{
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    height: 100px;
+    
+}
+nav{
+    background-color: rgba(0, 238, 238, 0.53);
+    border-radius: 10px;
+    width: 20em;
+    margin: auto;
+    padding: 3px;
+}
+nav > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-left: 40px;
+}
+
+nav > a:hover{
+    text-decoration: underline;
+}
+main{
+    background-color: white;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+article > h2 {
+    background-color: rgba(109, 109, 109, 0.43);
+    width: 5em;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    padding: 5px;
+}
+article > p {
+    text-align: justify;
+    margin: 10px;
+} 
+
+footer > p{
+    text-align: center;
+    border:solid black;
+    width: 10em;
+    margin: 20px auto;
+    border-radius: 8px;
+    padding: 3px;
+}
+footer > p:hover{
+    text-decoration: underline;
+}

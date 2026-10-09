@@ -1,0 +1,10 @@
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+	max-width: 500px;
+	margin: 0 auto;
+	border: black solid 3px;
+	color: #333333;
+    cursor: pointer;
+    padding: 20px;
+  }x

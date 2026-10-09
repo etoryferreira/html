@@ -1,0 +1,22 @@
+
+
+div > p {
+    display: none;
+}
+
+div:hover > p{
+    display: block;
+    color: white;
+    background-color: blue;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+   
+}
+
+div:hover > .g{
+    background-color: blueviolet;
+    padding-top: 20px;
+    border-radius: 20px;
+}

@@ -1,0 +1,110 @@
+body{
+    margin: 0px;
+}
+
+header{
+    background-image: linear-gradient(to top,  #386FA4, #59A5D8, #84D2F6, #91E5F6);
+    
+}
+
+header > h1{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    color: white;
+}
+header > h2{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    color: white;
+}
+menu{
+    padding: 10px 10px 0px 10px;
+    display: inline-block;
+    margin: 0px;
+    color: white;
+}
+
+main{
+    background-color: #78cef6;
+}
+
+
+
+article{
+    background-color: white;
+    margin: auto;
+    width: 35rem;   
+    text-align: justify;
+}
+
+
+.parte01 {
+    padding: 10px;
+}
+
+.parte01 > h1{
+    color: #386FA4;
+}
+
+.parte01 > h2{
+    color: #386FA4;
+}
+
+
+article > h1{
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
+}
+.parte01 > img{
+    width: 34em;
+    
+}
+
+
+#videos{
+    background-color: #0f3252;
+}
+
+#outros-assuntos{
+    background-color: #386FA4;
+    width: 500px;
+    margin: auto;
+    border-radius: 20px;
+    
+}
+
+#cabecalho{ 
+    background-color: #78cef6;
+    width: 500px;
+    margin: auto;
+    border-radius: 0px 0px 20px 20px;
+    
+}
+
+#outros-assuntos > h3{ 
+    text-align: center;
+}
+
+.cabecalho{
+    padding: 20px;
+}
+
+#p {
+    text-align: justify;
+    padding: 30px;
+}
+
+
+
+footer{
+    text-align: center;
+    background-color: #386FA4;
+}
+
+footer > p {
+    margin: 0px;
+    padding: 5px;
+}
